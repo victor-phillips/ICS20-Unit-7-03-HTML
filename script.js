@@ -1,5 +1,5 @@
 // set default variables
-age = 0
+let age = 0
 // event listener
 document.getElementById('button').addEventListener('click', agecheck)
 // age chercker
