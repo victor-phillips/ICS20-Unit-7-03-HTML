@@ -1,0 +1,26 @@
+.text {
+  text-align: center;
+  color: green;
+}
+
+.input {
+  text-align: center;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: skyblue;
+}
+
+.button {
+  text-align: center;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: blue;
+  color: red;
+}
+
+.output {
+  color: red;
+  text-align: center;
+}
